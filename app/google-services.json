@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628275488937",
+    "firebase_url": "https://elbrium-anotherworld-default-rtdb.firebaseio.com",
+    "project_id": "elbrium-anotherworld",
+    "storage_bucket": "elbrium-anotherworld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628275488937:android:07937277452fd4b79ae1b8",
+        "android_client_info": {
+          "package_name": "com.anotherworld.elbrium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628275488937-61l2v926arqet1jjg03vanrpls6fn0s2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anotherworld.elbrium",
+            "certificate_hash": "6501253e0a077b83d59b535d089e128e9a212681"
+          }
+        },
+        {
+          "client_id": "628275488937-uq5canbgis3f2kldq00jlfh30kiks41s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzxn_YP1kaH4ogbgzzkAJFDZeX2cxlSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628275488937-uq5canbgis3f2kldq00jlfh30kiks41s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

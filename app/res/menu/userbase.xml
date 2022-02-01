@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".UserBase">
+    <item
+        android:id="@+id/quest"
+        app:showAsAction="never"
+        android:title="@string/missions"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/map"
+        app:showAsAction="never"
+        android:title="@string/map"
+        android:orderInCategory="200"/>
+</menu>
