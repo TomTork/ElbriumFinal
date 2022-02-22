@@ -20,6 +20,9 @@ Elbrium - игра, в которой вы сможете добывать ру�
 
 Google Play: https://play.google.com/store/apps/details?id=com.anotherworld.elbrium
 
+Соавтор (разработчик части приложения, связанной с libGDX): 
+https://github.com/scrii
+
 # License
 MIT License
 
